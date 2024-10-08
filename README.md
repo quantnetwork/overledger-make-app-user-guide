@@ -1,3 +1,11 @@
+> ❗**IMPORTANT**❗
+>
+> This repository has been archived and will no longer be maintained.
+>
+> For the up-to-date user guide for the Overledger integration on Make.com please visit Quant’s Developer Hub, beginning [here](https://developers.quant.network/docs/make).
+>
+> ❗**IMPORTANT**❗
+
 # Make's Overledger App
 
 This user guide is to help people use the Overledger app available in the Make app store in 3 simple steps:
